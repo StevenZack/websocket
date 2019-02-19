@@ -6,7 +6,7 @@ import (
 	"log"
 
 	"github.com/fasthttp/websocket"
-	"github.com/valyala/fasthttp"
+	"github.com/StevenZack/fasthttp"
 )
 
 var addr = flag.String("addr", "localhost:8080", "http service address")

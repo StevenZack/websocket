@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
+	"github.com/StevenZack/fasthttp"
 	"github.com/savsgio/gotils"
-	"github.com/valyala/fasthttp"
 )
 
 var strPermessageDeflate = []byte("permessage-deflate")

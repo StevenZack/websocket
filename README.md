@@ -8,7 +8,7 @@
 [Gorilla WebSocket](https://github.com/gorilla/websocket) is an implementation of the
 [WebSocket protocol](http://www.rfc-editor.org/rfc/rfc6455.txt) for the [Go programming language](http://golang.org/).
 
-This fork adds [fasthttp](https://github.com/valyala/fasthttp) support to the latest version of [gorilla/websocket](https://github.com/gorilla/websocket).
+This fork adds [fasthttp](https://github.com/StevenZack/fasthttp) support to the latest version of [gorilla/websocket](https://github.com/gorilla/websocket).
 
 ### Documentation
 

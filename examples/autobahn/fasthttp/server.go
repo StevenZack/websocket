@@ -14,7 +14,7 @@ import (
 	"unicode/utf8"
 
 	"github.com/fasthttp/websocket"
-	"github.com/valyala/fasthttp"
+	"github.com/StevenZack/fasthttp"
 )
 
 var upgrader = websocket.FastHTTPUpgrader{

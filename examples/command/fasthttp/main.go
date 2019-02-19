@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"github.com/fasthttp/websocket"
-	"github.com/valyala/fasthttp"
+	"github.com/StevenZack/fasthttp"
 )
 
 var (
